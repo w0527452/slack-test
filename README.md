@@ -8,3 +8,9 @@
 
 ## After making channel private:
 * Nothing to say here.  Guess we'll find out what happens soon enough.
+
+## No luck after making channel private
+* Tried /github subscribe again in the channel, got 'no permission' error.
+* Slack said use @GitHub to add GitHub to the conversation.
+* Sent @GitHub 'testing' and was prompted to add GitHub to conversation.
+* Tried /github subscribe again and it appears to have worked.  We'll see after this commit.
